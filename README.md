@@ -10,7 +10,7 @@ A dynamic, responsive landing page inspired by Nike's clean, modern aesthetic. B
 
 ## Demo
 
-[*Link to live demo (if available)](https://nike-landing-page-ecru-three.vercel.app/)
+[*Link to Nike Landing page](https://nike-landing-page-ecru-three.vercel.app/)
 
 ## Tech Stack
 
